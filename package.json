@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-externalreader",
+  "version": "1.0.0",
+  "description": "Read Chat saved by the \"Send by Email\" function of WhatsApp",
+  "main": "app.js",
+  "scripts": {
+    "start": ".\\node_modules\\.bin\\electron ."
+  },
+  "author": "PasSilvestri",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
